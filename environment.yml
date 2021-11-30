@@ -4,3 +4,4 @@ dependencies:
   - nibabel
   - numpy
   - datalad
+  - vim
