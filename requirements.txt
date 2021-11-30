@@ -1,3 +1,0 @@
-nibabel~=3.2
-numpy~=1.21
-datalad~=0.15
