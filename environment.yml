@@ -1,0 +1,6 @@
+channels:
+  - conda-forge
+dependencies:
+  - git-annex>=2.19.1
+  - nibabel
+  - numpy
